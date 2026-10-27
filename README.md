@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33997023/README.md)
 # Martin O. Pieters
 
 **AI Solutions Engineer / Forward Deployed Engineer**
